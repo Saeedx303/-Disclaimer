@@ -4,9 +4,9 @@
 # 1 Error
 ` When I Switch On  Dark Color ` 
 
-` Title Privacy Policy` 
+` Title  Disclaimer` 
 
-` Not Showing  Good Its Background Color And  Title Privacy Policy Color Also Same` 
+` Not Showing  Good Its Background Color And  Title  Disclaimer Color Also Same` 
 
 # Website Link:
 https://movieshub3me.blogspot.com 
