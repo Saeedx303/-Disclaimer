@@ -1,5 +1,5 @@
 #  Disclaimer
-***It's Just Privacy &amp; Polices For My Website***
+***It's  Disclaimer For My Website***
 
 # 1 Error
 ` When I Switch On  Dark Color ` 
